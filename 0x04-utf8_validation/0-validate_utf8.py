@@ -31,4 +31,3 @@ def validUTF8(data):
                 return False
         byteCount -= 1
     return not byteCount
-
